@@ -1,0 +1,62 @@
+body {
+      font-family: sans-serif;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      background-color: #f0f0f0;
+    }
+
+    .app-container {
+      text-align: center;
+      padding: 20px;
+      background-color: white;
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+
+    .file-explorer {
+      margin-top: 20px;
+      text-align: left;
+    }
+
+    .file-list {
+      list-style: none;
+      padding: 0;
+    }
+
+    .file-list li {
+      padding: 5px 0;
+    }
+
+    .communication {
+      margin-top: 20px;
+      text-align: left;
+    }
+
+    .gps-navigation {
+      margin-top: 20px;
+      text-align: left;
+    }
+
+    .web-browser {
+      margin-top: 20px;
+      text-align: left;
+    }
+
+    .settings {
+      margin-top: 20px;
+      text-align: left;
+    }
+
+    .llm-interaction {
+      margin-top: 20px;
+      text-align: left;
+    }
+
+    .speech-io {
+      margin-top: 20px;
+      text-align: left;
+    }
